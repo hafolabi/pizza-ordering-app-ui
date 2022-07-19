@@ -14,6 +14,12 @@ const PizzaList = () => {
         </p>
         <div className={styles.wrapper}>
             <PizzaCard />
+            <PizzaCard />
+            <PizzaCard />
+            <PizzaCard />
+            <PizzaCard />
+            <PizzaCard />
+            <PizzaCard />
         </div>
     </div>
   )
