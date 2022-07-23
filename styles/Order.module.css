@@ -7,6 +7,12 @@ display: flex;
     flex: 2;
 }
 
+.table{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
 .right{
     flex: 1;
 }
